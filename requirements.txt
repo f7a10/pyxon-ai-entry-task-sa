@@ -1,5 +1,5 @@
 streamlit
 cohere
-pinecone-client
+pinecone
 PyMuPDF
 python-docx
