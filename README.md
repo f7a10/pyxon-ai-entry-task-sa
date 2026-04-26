@@ -151,23 +151,3 @@ If you had any questions about the requirements, list them here along with the a
 ## Future Improvements
 Ideas for enhancement
 ```
-
-**Note:** The demo link is a **mandatory requirement**. It should allow reviewers to test your implementation with sample documents (including Arabic documents with diacritics) and see the chunking and retrieval in action.
-
-## Evaluation Criteria
-
-Your submission will be evaluated on:
-
-1. **Functionality:** All requirements are met
-2. **Code Quality:** Clean, maintainable, well-documented code
-3. **Arabic Support:** Proper handling of Arabic text and diacritics
-4. **Intelligent Chunking:** Effective strategy selection and implementation
-5. **Benchmark Quality:** Comprehensive tests and meaningful metrics
-6. **Architecture:** Well-designed, scalable solution
-7. **Documentation:** Clear README and code comments
-
-## Questions?
-
-If you have any questions about the requirements, please include them in your PR description along with the assumptions you made to proceed with the implementation. This helps us understand your decision-making process.
-
-Good luck! 🚀
